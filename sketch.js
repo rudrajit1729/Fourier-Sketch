@@ -1,3 +1,6 @@
+// Fourier Sketch - v1
+// Author - rudrajit1729
+
 const USER = 0;
 const FOURIER = 1;
 const BEGINNING = -1;
