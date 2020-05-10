@@ -1,4 +1,5 @@
 // Dicrete Fourier Transform
+// Author - rudrajit1729
 // Formula reference - https://en.wikipedia.org/wiki/Discrete_Fourier_transform
 
 function dft(x){
