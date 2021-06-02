@@ -1,6 +1,5 @@
 # Fourier-Sketch
 
-
   Sketching out anything just by using numerous sine waves.
   In Engineering Mathematics, Fourier Transform is a way to actually generate any wave/signal by just using collection of sine waves.
   Here we scale it to the extent to draw out any random shape just by using a similar logic.
